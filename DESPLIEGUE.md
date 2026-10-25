@@ -44,3 +44,4 @@ Para cumplir con las políticas de seguridad y prevenir ciberataques, fue necesa
 "Cross-Origin-Resource-Policy": "same-origin"
 }
 }
+<img width="1199" height="309" alt="image" src="https://github.com/user-attachments/assets/fb69365c-9697-462f-8e66-a7bccb195a50" />
