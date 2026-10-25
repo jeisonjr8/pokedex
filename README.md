@@ -1,36 +1,10 @@
-# Pokédex Angular
+## Tutorial: Creación de cuenta en Azure for Students
 
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![codecov](https://codecov.io/gh/keilermora/pokedex-angular/branch/master/graph/badge.svg?token=9E0D28IOFT)](https://codecov.io/gh/keilermora/pokedex-angular)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+Para el despliegue de esta aplicación, se seleccionó la plataforma Microsoft Azure, utilizando el beneficio de Azure for Students. A continuación, se detalla el proceso de creación de la cuenta:
 
-[https://keilermora.github.io/pokedex-angular/](https://keilermora.github.io/pokedex-angular/)
-
-La aplicación muestra el listado y el detalle de los Pokémon de las primeras 3 generaciones.
-
-La imagen que representa un Pokémon en el listado muestra las variaciones que estos tuvieron durante las primeras versiones, desde la versión Green (1996) hasta la version Emerald (2005).
-
-Los detalles de un Pokémon individual muestra sus estadísticas base y los registros de la Pokédex de las diferentes versiones.
-
-El proyecto fue desarrollado usando la librería de JavaScript [Angular](https://angular.io/) para crear la interfaz de usuario, en comunicación con la Api RESTful [PokéAPI](https://pokeapi.co/).
-
-## Requisitos mínimos
-
-- [Nodejs](https://nodejs.org) con soporte de largo plazo (LTS).
-- Un navegador web
-
-## Ambiente de pruebas
-
-Ejecutar en la raíz del proyecto:
-
-```
-npm start
-```
-
-## Referencias
-
-- [Angular](https://angular.io/): One framework.
-- [Angular Folder Structure](https://angular-folder-structure.readthedocs.io/en/latest/): Create a skeleton structure which is flexible for projects big or small.
-- [Font Awesome](https://fontawesome.com/): The web's most popular icon set and toolkit.
-- [Normalize.css](https://necolas.github.io/normalize.css/): A modern, HTML5-ready alternative to CSS resets.
-- [PokéAPI](https://pokeapi.co/): The RESTful Pokémon API.
+1. **Acceso al portal:** Ingresé a la página oficial de [Azure for Students](https://azure.microsoft.com/es-es/free/students/).
+2. **Inicio de registro:** Hice clic en el botón "Empezar gratis".
+3. **Autenticación institucional:** Inicié sesión utilizando mi correo electrónico institucional universitario para validar mi estatus de estudiante.
+4. **Verificación de identidad:** Completé el formulario de registro con mis datos personales (nombre, teléfono) y realicé la verificación de identidad mediante un código enviado por SMS.
+5. **Aceptación de términos:** Acepté el acuerdo de suscripción y los detalles de privacidad de Microsoft Azure.
+6. **Confirmación:** Una vez verificada la cuenta, fui redirigido al Portal de Azure (`portal.azure.com`), con un saldo de crédito inicial y acceso a los servicios gratuitos, incluyendo Azure Static Web Apps.
