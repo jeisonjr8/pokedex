@@ -25,7 +25,7 @@ Para cumplir con las políticas de seguridad y prevenir ciberataques, fue necesa
 
 1. En la raíz de mi repositorio, creé un archivo llamado `staticwebapp.config.json`.
 2. Añadí la siguiente configuración para habilitar CSP, HSTS, X-Frame-Options, entre otros:
-
+<img width="1199" height="309" alt="image" src="https://github.com/user-attachments/assets/441afec9-3c75-4d10-82ee-d38d7f0f04e7" />
 ```json
 {
 "navigationFallback": {
@@ -44,4 +44,4 @@ Para cumplir con las políticas de seguridad y prevenir ciberataques, fue necesa
 "Cross-Origin-Resource-Policy": "same-origin"
 }
 }
-<img width="1199" height="309" alt="image" src="https://github.com/user-attachments/assets/fb69365c-9697-462f-8e66-a7bccb195a50" />
+
